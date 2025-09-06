@@ -1,0 +1,50 @@
+// package DSA-With-Java;
+
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class Array {
+    public static void main(String args[]) {
+        Scanner in = new Scanner(System.in);
+
+        // Array of primitive 
+
+        // datatype[] = new datatype[size]
+        // int[] arr = new int[5];
+        // System.out.println(arr[0]);//0
+
+        // String[] arr1 = new String[5];
+        // System.out.println(arr1[1]);//null
+
+        // for (int i = 0; i < arr.length; i++) {
+        //     arr[i] = in.nextInt();
+        // }
+        // System.out.println("The arrays are:");
+        // for (int i = 0; i < arr.length; i++) {
+
+        // System.out.print("\t" + arr[i]);
+        // }
+
+        // for (int i = 0; i < arr.length; i++) {
+        // System.out.print(arr[i]+" ");
+        // }
+
+        // for (int i : arr) { // for every element in the array , print the array
+        //     System.out.print(i + " "); // here i represents the elements of the array
+        // }
+
+        // System.out.println(Arrays.toString(arr));
+
+        // Array of objects 
+
+        String[] str = new String[5];
+        for (int i = 0; i < str.length; i++) {
+            str[i] = in.next();
+        }
+        str[1] = "Chandan";
+        System.out.println(Arrays.toString(str));
+    }
+
+}
+
