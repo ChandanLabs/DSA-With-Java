@@ -19,11 +19,11 @@ class Solution {
         Scanner inp = new Scanner(System.in);
 
         int n = inp.nextInt();
-        int[] nums1= new int[n];
+        int[] nums1 = new int[n];
        
         
-        for(int i=0;i<n;i++){
-            nums1[i]=inp.nextInt();
+        for(int i = 0;i < n;i++){
+            nums1[i] = inp.nextInt();
         }
 
         int key = inp.nextInt();
