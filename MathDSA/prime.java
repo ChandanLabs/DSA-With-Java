@@ -2,9 +2,9 @@ package MathDSA;
 
 public class prime {
     public static void main(String[] args) {
-        int n = 30;
-        for (int i = 1; i < n; i++) {
-            System.out.println(i + " :" + Isprime(n));
+        int n = 20;
+        for (int i = 1; i <= n; i++) {
+            System.out.println(i + " :" + Isprime(i));
         }
        
         
@@ -16,7 +16,7 @@ public class prime {
         }
         int c = 2;
         while(c * c <= n){
-            if(c % n == 0){
+            if(n % c == 0){
                 return false;
             }
             c++;
