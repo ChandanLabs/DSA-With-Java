@@ -1,0 +1,3 @@
+public void Solution {
+static void Majority(int arr[]){
+   
