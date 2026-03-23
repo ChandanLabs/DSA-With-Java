@@ -1,3 +1,4 @@
+//Added the link to the question so that you solve or try out whenever you want
 package Functions;
 import java.util.Scanner;
 public class BasicOfFun {
