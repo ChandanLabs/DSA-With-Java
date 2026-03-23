@@ -7,3 +7,5 @@ function sum(){
     console.log(sum);
 }
 ```
+
+while solving the dsa i need to focous on pattern - rememmer it.
