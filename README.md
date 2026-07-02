@@ -13,3 +13,19 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 - Trees & Graphs
 - Dynamic Programming
 - More to come...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+<!---LeetCode Topics End-->
