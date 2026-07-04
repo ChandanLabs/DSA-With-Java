@@ -21,10 +21,12 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -33,4 +35,16 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
