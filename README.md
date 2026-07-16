@@ -67,6 +67,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
@@ -75,4 +76,12 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
