@@ -68,6 +68,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0172-factorial-trailing-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -84,4 +85,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
