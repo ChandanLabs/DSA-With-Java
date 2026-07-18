@@ -31,6 +31,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1672-richest-customer-wealth](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -88,6 +90,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
