@@ -34,6 +34,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1732-find-the-highest-altitude](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -132,4 +134,12 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
