@@ -83,6 +83,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -109,6 +111,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1929-concatenation-of-array) |
