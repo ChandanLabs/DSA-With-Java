@@ -1,21 +1,22 @@
 class Solution {
     public List<String> fizzBuzz(int n) {
-        // int[] ans = new int[n]
-        List<String> answer = new ArrayList<>();
+        
+        ArrayList<String> list = new ArrayList<>();
         for(int i = 1; i <= n; i++){
             if(i % 3 == 0 && i % 5 == 0){
-                answer.add("FizzBuzz");
+                list.add("FizzBuzz");
             }
             else if(i % 3 == 0){
-                answer.add("Fizz");
+                list.add("Fizz");
             }
             else if(i % 5 == 0){
-                answer.add("Buzz");
+                list.add("Buzz");
             }
             else{
-                answer.add(String.valueOf(i));
+                list.add(String.valueOf(i));
             }
         }
-        return answer;
+        return list;
+
     }
 }
