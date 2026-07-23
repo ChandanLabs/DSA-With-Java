@@ -1,21 +1,20 @@
 class Solution {
     public int findGCD(int[] nums) {
-        int max_val = nums[0];
-        int min_val = nums[0];
+        int min = nums[0];
+        int max = nums[0];
 
         for(int i = 1; i < nums.length; i++){
-            min_val = Math.min(min_val, nums[i]);
-            max_val = Math.max(max_val, nums[i]);
+            min = Math.min(min, nums[i]);
+            max = Math.max(max, nums[i]);
         }
-        int ans = GCD(min_val, max_val);
-        return ans;
+        return GCD(min, max);
     }
     static int GCD(int a, int b){
+        // int temp = b;
         while(b != 0){
             int temp = b;
             b = a % b;
             a = temp;
-            
         }
         return a;
     }
