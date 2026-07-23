@@ -3,26 +3,22 @@ class Solution {
         if(n < 2){
             return 0;
         }
-        boolean isPrime[] = new boolean[n];
+        int count = 0;
+        boolean[] isPrime = new boolean[n];
 
         Arrays.fill(isPrime, true);
-
-        int sqrtn = (int)Math.sqrt(n);
-        for(int i = 2; i <= sqrtn; i++){
+        for(int i = 2; i <= Math.sqrt(n); i++){
             if(isPrime[i]){
-                for(int j = i * i; j < n; j+=i){
+                for(int j = i * i; j < n; j = j + i){
                     isPrime[j] = false;
                 }
             }
         }
-            int count = 0;
-            for(int i = 2; i < n; i++){
-                if(isPrime[i]){
-                    count++;
-                    // return count;
-                }
+        for(int i = 2; i < n; i++){
+            if(isPrime[i]){
+                count++;
             }
-        
+        }
         return count;
     }
 }
