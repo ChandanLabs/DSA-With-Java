@@ -41,6 +41,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
@@ -85,6 +86,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0009-palindrome-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0263-ugly-number) |
@@ -148,6 +150,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
