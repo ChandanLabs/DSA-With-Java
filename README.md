@@ -19,6 +19,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +171,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0077-combinations) |
 ## Recursion
 |  |
