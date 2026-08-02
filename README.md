@@ -93,6 +93,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0172-factorial-trailing-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
@@ -133,6 +134,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
@@ -169,4 +171,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0077-combinations) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
