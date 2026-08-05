@@ -28,6 +28,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1389-create-target-array-in-the-given-order) |
@@ -46,6 +47,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
 ## Matrix
@@ -69,6 +71,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -98,6 +101,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0231-power-of-two](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -138,6 +142,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0136-single-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
@@ -169,6 +174,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
