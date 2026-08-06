@@ -29,6 +29,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1389-create-target-array-in-the-given-order) |
@@ -72,6 +73,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -162,6 +164,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -170,6 +173,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
+| [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -185,4 +189,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0231-power-of-two) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
