@@ -51,6 +51,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +130,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
