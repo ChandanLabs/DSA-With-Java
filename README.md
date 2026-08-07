@@ -48,6 +48,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
@@ -73,6 +74,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +130,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
