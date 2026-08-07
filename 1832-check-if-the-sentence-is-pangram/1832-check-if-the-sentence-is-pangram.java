@@ -4,10 +4,13 @@ class Solution {
 
         for(char ch : sentence.toCharArray()){
             // for(int i = 0; i < 26; i++){
-                if(!set.contains(ch)){
+                if(ch >= 'a' && ch <= 'z'){
                    set.add(ch);
                 // }
-            }    
+            }  
+            // if(!set.contains(ch)){
+            //     set.add(ch);
+            // }  
         }
         if(set.size() == 26){
             return true;
