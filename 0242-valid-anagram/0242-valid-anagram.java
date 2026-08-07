@@ -1,17 +1,20 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        int[] freq = new int[26];
 
-        if(s.length() != t.length()){
-            return false;
+        for(char ch : s.toCharArray()){
+            if(ch >= 'a' && ch <= 'z'){
+                freq[ch - 'a']++;
+            }
         }
-        char[] s_array = s.toCharArray();
-        char[] t_array = t.toCharArray();
 
-        Arrays.sort(s_array);
-        Arrays.sort(t_array);
-
-        for(int i = 0; i < s_array.length; i++){
-            if(s_array[i] != t_array[i]){
+        for(char ch : t.toCharArray()){
+            if(ch >= 'a' && ch <= 'z'){
+                freq[ch - 'a']--;
+            }
+        }
+        for(int x : freq){
+            if(x != 0){
                 return false;
             }
         }
