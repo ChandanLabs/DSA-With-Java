@@ -61,6 +61,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -101,6 +102,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0009-palindrome-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
@@ -204,5 +206,6 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
