@@ -42,6 +42,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1929-concatenation-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |
