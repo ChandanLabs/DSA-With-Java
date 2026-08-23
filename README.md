@@ -125,6 +125,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1486-xor-operation-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2235-add-two-integers) |
 ## Enumeration
@@ -146,6 +147,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +185,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
+| [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -226,4 +229,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
