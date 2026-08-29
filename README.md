@@ -120,6 +120,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -148,6 +149,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
 ## Simulation
@@ -236,4 +238,12 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
