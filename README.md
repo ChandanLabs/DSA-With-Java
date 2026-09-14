@@ -151,6 +151,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -204,6 +205,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
