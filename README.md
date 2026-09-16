@@ -23,6 +23,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0198-house-robber) |
@@ -194,6 +195,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
