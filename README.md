@@ -157,6 +157,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -279,4 +280,16 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
