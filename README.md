@@ -19,6 +19,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
@@ -152,6 +153,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
@@ -294,4 +296,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
