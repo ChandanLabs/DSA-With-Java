@@ -155,6 +155,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
@@ -215,6 +216,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
