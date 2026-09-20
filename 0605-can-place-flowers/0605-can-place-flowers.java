@@ -14,6 +14,10 @@ class Solution {
                 }
             }
         }
-        return n <= 0;
+        // return n <= 0;
+        if(n <= 0){
+            return true;
+        }
+        return false;
     }
 }
