@@ -153,6 +153,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
