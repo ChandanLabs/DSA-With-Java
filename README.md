@@ -23,6 +23,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0136-single-number) |
@@ -217,6 +218,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
