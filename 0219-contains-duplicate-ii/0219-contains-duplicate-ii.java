@@ -4,8 +4,8 @@ class Solution {
 
         for(int i = 0; i < nums.length; i++) {
             if(map.containsKey(nums[i])) {
-                int getIndex = Math.abs(i - map.get(nums[i]));
-                if(getIndex <= k) {
+                int distance = Math.abs(i - map.get(nums[i]));
+                if(distance <= k) {
                     return true;
                 }
             }
