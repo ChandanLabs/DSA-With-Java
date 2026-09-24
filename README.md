@@ -66,6 +66,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0219-contains-duplicate-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
@@ -107,6 +108,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -168,6 +170,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
@@ -315,4 +318,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
