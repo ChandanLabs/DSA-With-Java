@@ -23,6 +23,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -60,6 +61,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0001-two-sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
@@ -96,6 +98,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
@@ -166,6 +169,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
