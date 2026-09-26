@@ -39,6 +39,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0219-contains-duplicate-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0605-can-place-flowers) |
@@ -70,6 +71,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0219-contains-duplicate-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
@@ -106,6 +108,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -248,6 +251,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
@@ -257,6 +261,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0069-sqrtx](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
