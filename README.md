@@ -142,6 +142,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1103-distribute-candies-to-people) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -181,6 +182,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
+| [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -244,6 +246,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0344-reverse-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
