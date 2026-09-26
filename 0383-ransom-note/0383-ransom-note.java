@@ -7,14 +7,17 @@ class Solution {
         }
         for(char c : ransomNote.toCharArray()) {
             freq[c - 'a']--;
-        }
-
-        //condition--
-        for(int x : freq) {
-            if(x < 0) {
+            if(freq[c - 'a'] < 0) {
                 return false;
             }
         }
+
+        //condition--
+        // for(int x : freq) {
+        //     if(x < 0) {
+        //         return false;
+        //     }
+        // }
         return true;
     }
 }
