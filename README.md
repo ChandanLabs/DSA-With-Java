@@ -22,6 +22,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0001-two-sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
@@ -236,6 +237,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
