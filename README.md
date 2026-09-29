@@ -66,6 +66,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
@@ -181,6 +182,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0344-reverse-string) |
@@ -316,6 +318,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
@@ -345,4 +348,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
