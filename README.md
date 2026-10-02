@@ -52,6 +52,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1480-running-sum-of-1d-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -80,6 +81,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
@@ -115,6 +117,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
@@ -261,6 +264,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
