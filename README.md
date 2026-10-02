@@ -95,6 +95,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0070-climbing-stairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -194,6 +195,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0383-ransom-note](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
@@ -261,6 +263,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0344-reverse-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
