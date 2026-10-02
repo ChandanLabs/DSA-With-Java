@@ -43,6 +43,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -305,6 +306,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
 ## Game Theory
 |  |
 | ------- |
