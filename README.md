@@ -23,6 +23,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0001-two-sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0076-minimum-window-substring) |
@@ -88,6 +90,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
