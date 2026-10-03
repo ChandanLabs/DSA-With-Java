@@ -30,6 +30,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0217-contains-duplicate) |
@@ -366,4 +368,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
