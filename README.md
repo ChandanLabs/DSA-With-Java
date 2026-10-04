@@ -210,6 +210,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1927-sum-game) |
 ## Simulation
@@ -249,6 +250,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0316-remove-duplicate-letters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -377,4 +379,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
