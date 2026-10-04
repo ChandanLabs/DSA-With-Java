@@ -46,6 +46,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -86,6 +87,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -124,6 +126,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -232,6 +235,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0231-power-of-two](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
