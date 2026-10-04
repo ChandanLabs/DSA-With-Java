@@ -51,6 +51,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0724-find-pivot-index](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -173,6 +174,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -246,6 +248,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0238-product-of-array-except-self](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
@@ -393,4 +396,12 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
