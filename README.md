@@ -389,4 +389,8 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
