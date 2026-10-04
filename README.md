@@ -42,6 +42,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0238-product-of-array-except-self](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0605-can-place-flowers) |
@@ -86,6 +87,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0383-ransom-note](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
