@@ -73,6 +73,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0001-two-sum](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
@@ -156,6 +157,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0069-sqrtx) |
@@ -198,6 +200,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0067-add-binary) |
