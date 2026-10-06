@@ -27,6 +27,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0036-valid-sudoku](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -107,6 +108,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0198-house-robber) |
@@ -115,6 +117,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0215-kth-largest-element-in-an-array) |
