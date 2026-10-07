@@ -35,6 +35,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0128-longest-consecutive-sequence](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0204-count-primes) |
@@ -288,6 +289,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
@@ -302,6 +304,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
