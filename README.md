@@ -55,6 +55,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0645-set-mismatch](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
+| [0922-sort-array-by-parity-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -139,6 +140,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0414-third-maximum-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0645-set-mismatch) |
+| [0922-sort-array-by-parity-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -301,6 +303,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
+| [0922-sort-array-by-parity-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
