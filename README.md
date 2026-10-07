@@ -48,6 +48,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0414-third-maximum-number](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
