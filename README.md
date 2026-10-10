@@ -70,6 +70,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1732-find-the-highest-altitude](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -244,6 +245,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1103-distribute-candies-to-people](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
@@ -308,6 +310,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
 | [0922-sort-array-by-parity-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
