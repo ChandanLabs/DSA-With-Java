@@ -312,6 +312,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [0455-assign-cookies](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0556-next-greater-element-iii) |
 | [0809-expressive-words](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0809-expressive-words) |
+| [0876-middle-of-the-linked-list](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -439,5 +440,6 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ChandanLabs/DSA-With-Java/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
