@@ -76,6 +76,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +152,7 @@ I am building this repo to strengthen problem-solving skills and track my daily 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChandanLabs/DSA-With-Java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChandanLabs/DSA-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/ChandanLabs/DSA-With-Java/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
